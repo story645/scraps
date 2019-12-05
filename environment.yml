@@ -1,0 +1,11 @@
+name: scraps
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab>=1.2
+  - matplotlib
+  - ipympl
+  - nodejs
+prefix: /home/hannah/miniconda3/envs/scraps
+
