@@ -7,5 +7,5 @@ dependencies:
   - matplotlib
   - ipympl
   - nodejs
-prefix: /home/hannah/miniconda3/envs/scraps
-
+  - pandas
+  - scikit-learn
